@@ -12,7 +12,8 @@ nav:
   home: '/'
   tags: '/tags.html'
   about: '/about.html'
-
+  github: 'https://github.com/kjBot-Dev/'
+  
 # Footer
 footer:
   since: 2017
