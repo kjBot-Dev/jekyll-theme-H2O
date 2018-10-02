@@ -11,6 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  about: '/about.html'
 
 # Footer
 footer:
@@ -20,7 +21,7 @@ footer:
 author: 'kjBot Devs'
 nickname: 'kjBot-Devs'
 bio: 'Full with love of development.'
-avatar: '/assets/img/profile.png'
+avatar: '/assets/img/avatar.jpg'
 
 # Search
 search: true

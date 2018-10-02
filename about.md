@@ -1,0 +1,31 @@
+---
+layout: postd
+title: About kjBot 
+---
+<style>
+.big-avatar {   
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    box-shadow: 0 0 10px cyan ;
+    }
+</style>
+
+<img class="big-avatar" src="/assets/img/avatar.jpg" alt="">
+- kjBot 是 [kj415j45](https://github.com/kj415j45/) 及 [kjBot-Dev](https://github.com/kjBot-Dev) 组 开发的 QQ 聊天机器人。        
+  
+项目地址：https://github.com/kjBot-Dev/kjBot     
+用户协议：https://github.com/kjBot-Dev/TOS/blob/master/README.md       
+        
+如果你喜欢这个项目，请随意**捐赠**：                   
+
+> 如果同时需要**申请广告推广**或**屏蔽**，请通过**邮件**发送您的订单号及需求到 `kjbot@kj415j45.space`         
+
+
+|    |   |
+|:-:|:-:|
+| 支付宝 | ![支付宝捐赠](/assets/img/alipay.jpg) | 
+| 微信 | ![微信捐赠](/assets/img/wechat.png) |
+| 加入 QQ 群 | ![QQ 群](/assets/img/qqgrp.png)   |
